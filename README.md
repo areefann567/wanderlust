@@ -43,6 +43,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
 4. **Set up your MongoDB Database**
 
    - Open MongoDB Compass and connect MongoDB locally at `mongodb://localhost:27017`.
+   - https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-ubuntu/
 
 5. **Import sample data**
 
